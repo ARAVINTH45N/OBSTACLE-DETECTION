@@ -90,7 +90,7 @@ void loop()
 ```
 ![Screenshot 2025-05-23 161304](https://github.com/user-attachments/assets/dacebbef-5f70-4ce8-adad-cf2609f69575)
 
-## 6. Output Screenshot:
+## 6. Output:
 The distance measured is shown on the Serial Monitor.
 In the sample output shown below, the measured distance is 0 cm, indicating either no object detected or incorrect sensor positioning.
 ![Screenshot 2025-05-23 161258](https://github.com/user-attachments/assets/945b1326-c432-40bf-aeaa-37c1f6bd4cbe)
